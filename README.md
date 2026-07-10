@@ -8,6 +8,6 @@ I also implemented **conditional rendering** to display badges like **"SOLD OUT"
 more realistic and interactive feel. Overall, this project strengthened my understanding of reusable components, dynamic rendering, and writing 
 scalable React applications.
 
-**Video:** https://www.youtube.com/watch?v=bMknfKXIFA8
+**Learning Resource:** https://www.youtube.com/watch?v=bMknfKXIFA8
 
-**⏱️ Time Span:** **02:24:00 – 04:36:00** *(Section 2 – Airbnb Experiences Project)*
+**Time Span:** **02:24:00 – 04:36:00** *(Section 2 – Airbnb Experiences Project)*
