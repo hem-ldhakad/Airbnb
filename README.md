@@ -7,6 +7,9 @@ In addition, I practiced using the **spread operator (`...`)** to pass object pr
 I also implemented **conditional rendering** to display badges like **"SOLD OUT"** or **"ONLINE"** based on the data, giving the application a 
 more realistic and interactive feel. Overall, this project strengthened my understanding of reusable components, dynamic rendering, and writing 
 scalable React applications.
+<p align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7aae057b-5871-49bb-97c9-1320fb62e6b3" />
+</p>
 
 **Learning Resource:** https://www.youtube.com/watch?v=bMknfKXIFA8
 
